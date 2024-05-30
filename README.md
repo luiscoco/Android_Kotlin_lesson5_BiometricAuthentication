@@ -18,6 +18,14 @@ This is the code for the new application
 
 ## 2. Add dependencies
 
+We add the following dependencies in the **build.gradle.kts**(app) file
+
+```kotlin
+implementation ("androidx.biometric:biometric:1.1.0")
+implementation ("androidx.appcompat:appcompat:1.4.1")
+```
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson5_BiometricAuthentication/assets/32194879/f2cfd9f4-9f7e-4c25-874b-41a0ca855cde)
 
 
 ## 3. 
