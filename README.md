@@ -1,5 +1,7 @@
 # Learn how to use Biometric (FaceRecognition or FingerPrint) for Authentication
 
+For a detailed explanation see this youtube video: https://www.youtube.com/watch?v=BcmPW3ji_MA
+
 ## 1. Create a new Android Compose application
 
 We run Android and we press **New Project** button 
